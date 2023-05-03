@@ -1,7 +1,9 @@
 ```fix
 Обращаем Ваше внимание на то, что при игре на наших серверах Вы автоматически принимаете правила проекта.```
-https://discord.gg/Y2zjdBdnCe
-
+Links
+* <https://discord.gg/Y2zjdBdnCe>
+* (https://github.com/netology-code/sdb-homeworks/blob/main/12-04.md)
+(https://www.google.ru/)
 ◘◘◘◘◘◘◘◘◘◘
 ```fix
 Часть 1```
